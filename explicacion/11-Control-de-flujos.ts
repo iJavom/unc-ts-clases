@@ -33,7 +33,7 @@
     //Si la variable/objeto tiene null, undefined o false sera interpretado como que no se cumple
     //Si la variable/objeto tiene valor o es true se interpreta como se cumple
 
-    //Operador terniario "?:"
+    //Operador ternario "?:"
     //El operador terniario es como un if/else pero con una sintaxis distinta
     //donde primero tenemos la operacion booleana () luego "?" , el valor en caso de cumplirse luego se usa el ":" para indicar el else y la instruccion caso de no cumplirse y se cierra con ;
     console.log("--------operador terniario");

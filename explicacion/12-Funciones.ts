@@ -32,6 +32,6 @@
     var necesitoElMensaje = funcionEjemploExplicitaString();
 
     var funcionImplementacionOptionalChaining  = (paramString : string | null):void => {
-        let necesitoUnString: string = paramString?.toLowerCase() || '';       
+        let necesitoUnString: string = paramString?.toLowerCase() || "";       
     }
 })();
